@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/vscode-style-portfolio/static/js/main.473edb67.js",
+    "static/js/787.df5e1d3a.chunk.js": "/vscode-style-portfolio/static/js/787.df5e1d3a.chunk.js",
+    "index.html": "/vscode-style-portfolio/index.html",
+    "main.473edb67.js.map": "/vscode-style-portfolio/static/js/main.473edb67.js.map",
+    "787.df5e1d3a.chunk.js.map": "/vscode-style-portfolio/static/js/787.df5e1d3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.473edb67.js"
+  ]
+}
